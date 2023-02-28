@@ -9,7 +9,7 @@ Snake game is a very popular video game.
     - s => move down
     - d => move right
 - You can communicate your friends by pressing
-    - Z to Say: Ssssssssssssssss!
+    - z to Say: Ssssssssssssssss!
     - c to Say: I am not a regular snake --- I am a python
     - v to Say: would you like an apple!
     
